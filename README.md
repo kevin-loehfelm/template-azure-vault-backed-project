@@ -1,0 +1,3 @@
+# Workspace
+
+Terraform Enterprise Workspace
