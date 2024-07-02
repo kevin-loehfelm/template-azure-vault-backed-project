@@ -1,3 +1,3 @@
-# Workspace
+# Template Workspace for Azure Vault-backed Credentials
 
-Terraform Enterprise Workspace
+This is a template workspace for Azure Vault-Backed Credentials
